@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3928d912-cd60-4545-b889-34741cf60200" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.agents/skills/react-router/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/react-router/references/data-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/react-router/references/declarative-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/react-router/references/framework-mode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/react-router/references/rsc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/puter.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="26" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5669249509193264" />
+      <entry key="MS500" value="3.526584919007694" />
+      <entry key="S2" value="6.887831718628666" />
+      <entry key="S5" value="9.330480476040794" />
+      <entry key="S10" value="11.098108329663129" />
+      <entry key="S30" value="17.471792558516945" />
+      <entry key="S60" value="24.929331187929222" />
+      <entry key="M2" value="33.83811830254736" />
+      <entry key="M5" value="48.94746988350134" />
+      <entry key="M10" value="61.98603612285142" />
+      <entry key="M15" value="68.65361812648717" />
+      <entry key="M30" value="77.12877403518314" />
+      <entry key="H1" value="82.6801347126944" />
+      <entry key="H2" value="94.00670538261328" />
+      <entry key="H4" value="126.33535437855419" />
+      <entry key="D1" value="241.7986479114422" />
+      <entry key="W1" value="323.04691063672095" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="5.633606979731772E-293" />
+      <entry key="S60" value="1.4937074938922736E-146" />
+      <entry key="M2" value="3.4115746326100195E-73" />
+      <entry key="M5" value="4.534719919043223E-29" />
+      <entry key="M10" value="2.869121631934996E-14" />
+      <entry key="M15" value="2.7249750850053417E-9" />
+      <entry key="M30" value="2.869691652945712E-4" />
+      <entry key="H1" value="0.09815807797034848" />
+      <entry key="H2" value="1.8435026634399785" />
+      <entry key="H4" value="8.022708527072535" />
+      <entry key="D1" value="31.139253638516966" />
+      <entry key="W1" value="48.869607213435565" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3749007460626788" />
+      <entry key="MS500" value="3.3644365068423805" />
+      <entry key="S2" value="6.8154602765705485" />
+      <entry key="S5" value="9.292813019665559" />
+      <entry key="S10" value="11.076222656830495" />
+      <entry key="S30" value="17.460961805690037" />
+      <entry key="S60" value="24.92174597741801" />
+      <entry key="M2" value="33.830952348104894" />
+      <entry key="M5" value="48.93333802004018" />
+      <entry key="M10" value="61.97046255133867" />
+      <entry key="M15" value="68.63988097132824" />
+      <entry key="M30" value="77.11991591108345" />
+      <entry key="H1" value="82.77283536255688" />
+      <entry key="H2" value="95.84576276690878" />
+      <entry key="H4" value="134.35311340151458" />
+      <entry key="D1" value="272.93541067157804" />
+      <entry key="W1" value="371.9159812840385" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GUiKUSK9jTg7NKw10I8URsy8H4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Admin/WebstormProjects/roomify/src/main.js",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Admin\\WebstormProjects\\roomify\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "editing.templates",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\Admin\\WebstormProjects\\roomify\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3928d912-cd60-4545-b889-34741cf60200" name="Changes" comment="" />
+      <created>1784032488177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784032488177</updated>
+      <workItem from="1784032488873" duration="11654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
